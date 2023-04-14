@@ -1,0 +1,17 @@
+E:\MTP\Proiectel\X_O\X_O\bin\Debug\net6.0-windows\X_O.exe
+E:\MTP\Proiectel\X_O\X_O\bin\Debug\net6.0-windows\X_O.deps.json
+E:\MTP\Proiectel\X_O\X_O\bin\Debug\net6.0-windows\X_O.runtimeconfig.json
+E:\MTP\Proiectel\X_O\X_O\bin\Debug\net6.0-windows\X_O.dll
+E:\MTP\Proiectel\X_O\X_O\bin\Debug\net6.0-windows\X_O.pdb
+E:\MTP\Proiectel\X_O\X_O\obj\Debug\net6.0-windows\X_O.csproj.AssemblyReference.cache
+E:\MTP\Proiectel\X_O\X_O\obj\Debug\net6.0-windows\X_O.Form1.resources
+E:\MTP\Proiectel\X_O\X_O\obj\Debug\net6.0-windows\X_O.csproj.GenerateResource.cache
+E:\MTP\Proiectel\X_O\X_O\obj\Debug\net6.0-windows\X_O.GeneratedMSBuildEditorConfig.editorconfig
+E:\MTP\Proiectel\X_O\X_O\obj\Debug\net6.0-windows\X_O.AssemblyInfoInputs.cache
+E:\MTP\Proiectel\X_O\X_O\obj\Debug\net6.0-windows\X_O.AssemblyInfo.cs
+E:\MTP\Proiectel\X_O\X_O\obj\Debug\net6.0-windows\X_O.csproj.CoreCompileInputs.cache
+E:\MTP\Proiectel\X_O\X_O\obj\Debug\net6.0-windows\X_O.dll
+E:\MTP\Proiectel\X_O\X_O\obj\Debug\net6.0-windows\refint\X_O.dll
+E:\MTP\Proiectel\X_O\X_O\obj\Debug\net6.0-windows\X_O.pdb
+E:\MTP\Proiectel\X_O\X_O\obj\Debug\net6.0-windows\X_O.genruntimeconfig.cache
+E:\MTP\Proiectel\X_O\X_O\obj\Debug\net6.0-windows\ref\X_O.dll
