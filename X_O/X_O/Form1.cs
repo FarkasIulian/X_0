@@ -214,3 +214,5 @@ namespace X_O
         }
     }
 }
+
+// toate numerele de la functiile cu draw sunt luate dupa calcule in paint de pixeli :))))
